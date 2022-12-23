@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://anuraghazra-github-readme-stats-7gv2-57yza7xyq-krukrue.vercel.app/api/top-langs?username=krukrue&show_icons=true&locale=en&layout=compact" alt="krukrue" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krukrue&show_icons=true&locale=en" alt="krukrue" /></p>
+<p>&nbsp;<img align="center" src="https://anuraghazra-github-readme-stats-7gv2-57yza7xyq-krukrue.vercel.app/api?username=krukrue&show_icons=true&locale=en" alt="krukrue" /></p>
