@@ -101,6 +101,6 @@
       />
     </a> </p>
 
-<p ><img align="left" src="https://anuraghazra-github-readme-stats-7gv2-57yza7xyq-krukrue.vercel.app/api/top-langs?username=krukrue&show_icons=true&locale=en&layout=compact&include_orgs=true" alt="krukrue" /></p>
+<!-- <p ><img align="left" src="https://anuraghazra-github-readme-stats-7gv2-57yza7xyq-krukrue.vercel.app/api/top-langs?username=krukrue&show_icons=true&locale=en&layout=compact&include_orgs=true" alt="krukrue" /></p> -->
 
 
